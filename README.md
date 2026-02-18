@@ -98,7 +98,7 @@ jupyter lab
 
 ## 👤 Author
 
-**[Your Name]**
+**[SIVA]**
 
 ---
 
